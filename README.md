@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 ---
 
-### ⚡️ A quick introduction
-
 My name is Chris Sutcliffe, I'm currently learning software development to further my [professional career](https://www.linkedin.com/in/cjsutcliffe/) and satisfy my curiousity.
 
 <a href="https://www.buymeacoffee.com/cjsutcliffe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
+
+### ⚡️ A quick introduction
 
 In my spare time I like to tinker with all sorts of things...
 - 🤖3D Printing
