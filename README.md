@@ -34,8 +34,8 @@ In my spare time I like to tinker with all sorts of things...
 - 🏠Home Automation
 - 📡Home Networking
 - 🛸Drones
-- 📻Amatuer Radio
-- 🪚🛠️Woodwork & DIY
+- 📻Amateur Radio
+- 🛠️Woodwork & DIY
 - 🍤Cooking
 - 🚴🏻‍♂️Cycling
 - ⛷️Skiing
