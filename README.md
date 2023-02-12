@@ -29,7 +29,7 @@ My name is Chris Sutcliffe, I'm currently learning software development to furth
 ### ⚡️ A quick introduction
 
 In my spare time I like to tinker with all sorts of things...
-- 🤖3D Printing
+- 🤖[3D Printing](https://www.printables.com/social/458116-cjprints/about)
 - 🥧Raspberry Pi
 - 🏠Home Automation
 - 📡Home Networking
